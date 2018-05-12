@@ -1,0 +1,35 @@
+_repo: David-Balfour--13-Being-Memoirs-Of-His-Adventures-At-Home-And-Abroad-The-Second-Part--In-Whic__14133
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: Catriona is the sequel to Stevensen's classic, Kidnapped, beginning precisely
+  where the last work left off. David Balfour is back in polite society where he attempts
+  to fight injustices and is caught in the tangled morality of love.
+gutenberg_issued: '2004-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- 18th century -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: "David Balfour\r\nBeing Memoirs Of His Adventures At Home And Abroad, The Second\
+  \ Part: In Which Are Set Forth His Misfortunes Anent The Appin Murder; His Troubles\
+  \ With Lord Advocate Grant; Captivity On The Bass Rock; Journey Into Holland And\
+  \ France; And Singular Relations With James More Drummond Or Macgregor, A Son Of\
+  \ The Notorious Rob Roy, And His Daughter Catriona"
+url: http://www.gutenberg.org/ebooks/14133
